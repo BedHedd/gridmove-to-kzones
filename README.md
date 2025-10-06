@@ -4,7 +4,7 @@ Convert classic **GridMove** templates (`.ini` text like `xipergrid2`) into a **
 Paste your GridMove files, run one script, then paste the generated JSON into KZones.
 
 ## Final output
-https://github.com/BedHedd/gridmove-to-kzones/raw/refs/heads/master/00-demos/Grid_Demo.mp4
+[](https://github.com/BedHedd/gridmove-to-kzones/raw/refs/heads/master/00-demos/Grid_Demo.mp4)
 ![Grid Drag](00-demos/Grid_Drag.png)
 
 ## What this does (in plain terms)
