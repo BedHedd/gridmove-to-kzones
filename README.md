@@ -3,6 +3,9 @@
 Convert classic **GridMove** templates (`.ini` text like `xipergrid2`) into a **KZones** layout JSON for KWin.
 Paste your GridMove files, run one script, then paste the generated JSON into KZones.
 
+## Final output
+![preview](00-demos/Grid_Demo.webm)
+
 ## What this does (in plain terms)
 
 * Treats your monitor as a **0–100%** canvas in both directions.
